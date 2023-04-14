@@ -1,6 +1,7 @@
-import React from "react";
-import MySVGIcon from "./MySVGIcon";
 import LifeCycle from "./components/LifeCycle";
+import MySVGIcon from "./MySVGIcon";
+import PrinceCaffeine from "./components/PrinceCaffeine";
+import React from "react";
 
 function App() {
   console.log("prince-prabha")
@@ -9,8 +10,9 @@ function App() {
   }
   return (
     <div>
-      <MySVGIcon iconName="Delete-Icon" onClick={handleClick}/>
-      <LifeCycle/>
+      {/* <MySVGIcon iconName="Delete-Icon" onClick={handleClick}/> */}
+      {/* <LifeCycle/> */}
+      <PrinceCaffeine/>
     </div>
   );
 }
