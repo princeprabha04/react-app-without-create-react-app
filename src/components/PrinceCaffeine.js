@@ -1,8 +1,14 @@
 import React from "react";
 import menu from "./MyItems.json";
+import { useNavigate } from "react-router";
 
 function PrinceCaffeine() {
-  console.log("items", menu);
+  // console.log("items", menu);
+  const navigate = useNavigate()
+
+  const handleNavigate =()=>{
+    navigate('/usecallback')
+  }
   return (
     <div>
       <div className="container">
@@ -57,6 +63,7 @@ function PrinceCaffeine() {
           );
         })}
       </div>
+      <button onClick={handleNavigate}>Usecallback</button>
     </div>
   );
 }
