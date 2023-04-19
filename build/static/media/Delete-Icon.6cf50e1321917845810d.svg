@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="pfxvwgaq6a">
+            <path data-name="Rectangle 3109" transform="translate(-2.374 -2.984)" style="stroke:#707070;fill:none" d="M0 0h24v24H0z"/>
+        </clipPath>
+    </defs>
+    <g transform="translate(2.374 2.984)" style="clip-path:url(#pfxvwgaq6a)">
+        <path data-name="Path 13045" d="M16 4.449v11.6a2.032 2.032 0 0 1-2.032 2.033H6.389a2.032 2.032 0 0 1-2.032-2.033v-11.6" transform="translate(-.554 -.844)" style="stroke:#006ec7;stroke-miterlimit:10;stroke-width:1.8px;fill:none"/>
+        <path data-name="Line 710" transform="translate(1.959 3.604)" style="stroke:#006ec7;stroke-miterlimit:10;stroke-width:1.8px;fill:none" d="M0 0h15.335"/>
+        <path data-name="Rectangle 1486" d="M1.749 0h1.282a1.749 1.749 0 0 1 1.748 1.749V2.81H0V1.749A1.749 1.749 0 0 1 1.749 0z" transform="translate(7.128 .795)" style="stroke:#006ec7;stroke-miterlimit:10;stroke-width:1.8px;fill:none"/>
+        <path data-name="Line 711" transform="translate(7.128 5.852)" style="stroke:#006ec7;stroke-miterlimit:10;stroke-width:1.8px;fill:none" d="M0 0v9.282"/>
+        <path data-name="Line 712" transform="translate(11.907 5.852)" style="stroke:#006ec7;stroke-miterlimit:10;stroke-width:1.8px;fill:none" d="M0 0v9.282"/>
+    </g>
+</svg>

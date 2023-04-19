@@ -1,0 +1,2 @@
+.container{background-color:#5cb5cd;display:grid;grid-template-columns:1fr 1fr 1fr}.container .imageClass{border-radius:25px;height:55px;width:55px}.container .items{background-color:#faebd7;display:flex;display:grid;grid-template-columns:1fr 6fr 1fr;margin:5px}.container .titleClass{font-size:large;font-weight:700}.container .price{align-items:center;display:flex;justify-content:flex-end;padding-right:2px}.container h4{color:red}
+/*# sourceMappingURL=main.53da06d1.css.map*/
