@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+
 import MySVGIcon from "../MySVGIcon";
 
 export class LifeCycle extends Component {
