@@ -63,7 +63,7 @@ function PrinceCaffeine() {
           );
         })}
       </div>
-      <button onClick={handleNavigate}>Usecallback</button>
+      {/* <button onClick={handleNavigate}>Usecallback</button> */}
     </div>
   );
 }
